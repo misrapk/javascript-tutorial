@@ -1,0 +1,33 @@
+What is JAVSCRIPT?
+--> It is a client side language. 
+--> NodeJS is built in JS.
+--> Electron , viewJs, angular.
+--> React VR, TensorFlow.js
+--> machine learning can also be done in js also very soon rather than python and R.
+
+
+
+
+Difference between Java v/s JAVSCRIPT     --> JAVSCRIPT is not built with Java.
+										  --> Like car and carpet.
+
+
+What is ES6/ES7?
+ECMAScript - European Computer Manufacturers Association Script
+2015- ES6
+2017 - ES7
+these are versions of JAVSCRIPT in which the addition of few features in the JS
+
+
+TOOLS FOR JS______-->
+
+1. nodeJs LTS
+2. editor --> atom, sublime, vsCode
+3. browser -> chrome
+
+4. jsbin(online tool)
+
+SETTING EDITOR
+
+1. install Bebel( sublime/vscode)
+2. 
