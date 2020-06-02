@@ -1,0 +1,7 @@
+DOM - DOcument object Model
+ie. how u structure ur code.
+head --> body --> and iniside the body all is dom\
+
+WHERE TO STORE JS CODE
+1. If u want that web page require som e stef than uplement 
+then put it before body tag
